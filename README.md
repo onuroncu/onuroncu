@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a alpmac! I'm focused on building optimized, scalable and user-friendly systems. I combine solid backend logic with modern UX/UI design principles to create scripts that are not only functional but also visually clean and intuitive. My goal is to deliver high-performance resources with well-structured architecture and maintainable code. I actively work on improving my understanding of Lua at a deeper level, exploring its core mechanics and performance behaviors to write more efficient and reliable systems. I enjoy designing modular frameworks, creating immersive in-game experiences, and continuously refining both the technical and visual aspects of my projects.
+I’m a Onur! I'm focused on building optimized, scalable and user-friendly systems. I combine solid backend logic with modern UX/UI design principles to create scripts that are not only functional but also visually clean and intuitive. My goal is to deliver high-performance resources with well-structured architecture and maintainable code. I actively work on improving my understanding of Lua at a deeper level, exploring its core mechanics and performance behaviors to write more efficient and reliable systems. I enjoy designing modular frameworks, creating immersive in-game experiences, and continuously refining both the technical and visual aspects of my projects.
 
 
 ## 🌐 Socials:
